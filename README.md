@@ -44,4 +44,4 @@ GoingPark 訂閱期間提供以下保固:
 - **合法經營**：由台灣公司營運，遵守法律規範，讓交易更有保障。
 - **靈活選擇**：若您擔心一次支付長期費用的風險，可以選擇按月訂閱。GoingPark 支持每月原帳號續約，讓您使用更安心。
 
-本文網址：[https://github.com/lorikd545/Netflix](lorikd545/Netflix)
+本文網址：[lorikd545/Netflix](https://github.com/lorikd545/Netflix)
